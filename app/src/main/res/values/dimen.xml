@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="barheight">50dp</dimen>
+    <dimen name="bartextmargin">20dp</dimen>
+    <dimen name="bartextsize">25dp</dimen>
+    <dimen name="margintop">20dp</dimen>
+    <dimen name="titlesize">25dp</dimen>
+    <dimen name="descriptionfont">20dp</dimen>
+</resources>

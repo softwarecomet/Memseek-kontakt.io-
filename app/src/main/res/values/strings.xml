@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MemSeek(Android)</string>
+    <string name="bottombar_text">Virtual Memorial</string>
+    <string name="topbar_text">MeMSeek</string>
+    <string name="titlefont">Honoring Those \n Who Serve</string>
+    <string name="registertext">There is no greater gift to give \n than to put yourself \n in harm\'s way and risk death \n to save someone else from harm.</string>
+    <string name="bluetoothtext">To Access the Virtual Memorial you \n need to have your phone\'s Bluetooth on \n\n Do you want to turn your \n Bluetooth On? </string>
+    <string name="label_mac">MAC:</string>
+    <string name="label_updated">Updated:</string>
+    <string name="label_rssi">RSSI:</string>
+    <string name="label_uuid">UUID:</string>
+    <string name="label_major">Major:</string>
+    <string name="label_minor">Minor:</string>
+    <string name="label_tx_power">TX Power:</string>
+    <string name="label_distance">Distance:</string>
+    <string name="label_decriptor">Descriptor:</string>
+
+    <string name="lorem_ipsum">thislthoahdiohalkdddddddkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkddddddddddddddddddddddddddddddddddddweeeeeeeeeeeersssssssssssssfeeeeee</string>
+</resources>
+
